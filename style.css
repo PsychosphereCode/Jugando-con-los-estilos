@@ -1,0 +1,20 @@
+.mycloud{
+    background-color: black;
+    color: aliceblue;
+}
+.mycloud span{
+    color:aqua;
+}
+.completeprojects {
+    background-color: blueviolet;
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+    
+}
+.contactus {
+    background-color: cornflowerblue;
+    color:blue;
+    text-decoration: underline;
+    text-align: right;
+}
